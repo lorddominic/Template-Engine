@@ -1,0 +1,19 @@
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.jumbotron {
+    background-color: burlywood;
+}
+
+#card1 {
+    background-color: chartreuse;
+}
+
+#card2 {
+    background-color: lightcoral;
+}
+
+#card3 {
+    background-color: orange;
+}
