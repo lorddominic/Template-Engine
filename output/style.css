@@ -6,14 +6,10 @@ h1 {
     background-color: burlywood;
 }
 
-#card1 {
-    background-color: chartreuse;
+.team-area {
+    flex-wrap: wrap;
 }
 
-#card2 {
-    background-color: lightcoral;
-}
-
-#card3 {
-    background-color: orange;
+.card {
+    margin: 1rem;
 }
