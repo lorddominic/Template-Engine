@@ -9,7 +9,7 @@ Template-Engine is a project that requires us to create a team member and show i
 Dominic Xu dominictxu1@gmail.com
 
 ## Link to deployed App
-[Link to the GitHub page](https://lorddominic.github.io/Template-Engine/)
+[Link to the GitHub page](https://github.com/lorddominic/Template-Engine)
 
 ## Gif
 ![TeamMembers GIF](TeamMembers.gif)
